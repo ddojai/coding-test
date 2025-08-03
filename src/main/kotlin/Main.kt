@@ -1,0 +1,18 @@
+fun main() {
+    println("코틀린 코딩 테스트 연습 프로젝트")
+    println("================================")
+    println("카테고리별 문제:")
+    println("- array: 배열 관련 문제")
+    println("- string: 문자열 관련 문제")
+    println("- hash: 해시맵/해시셋 관련 문제")
+    println("- stack/queue: 스택, 큐 관련 문제")
+    println("- heap: 힙 관련 문제")
+    println("- tree: 트리 관련 문제")
+    println("- graph: 그래프 관련 문제")
+    println("- dp: 동적 프로그래밍 문제")
+    println("- greedy: 그리디 알고리즘 문제")
+    println("- sort: 정렬 관련 문제")
+    println("- search: 탐색 관련 문제")
+    println("- math: 수학 관련 문제")
+    println("- implementation: 구현 문제")
+}
